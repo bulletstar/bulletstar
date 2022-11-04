@@ -1,0 +1,7 @@
+echo "# bulletstar" >> README.md
+git init
+git add README.md
+git commit -m "bullet"
+git branch -M bullet star
+git remote add origin git@github.com:bulletstar/bulletstar.git
+git push -u bulletstarraju
